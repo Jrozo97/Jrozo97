@@ -6,7 +6,7 @@
 </p>
 
 </br>
-<h2>💻 Some stats 💻</h2>
+<h2>💻 Stack technology 💻</h2>
 
 ```javascript
 const Jrozo97 = {
