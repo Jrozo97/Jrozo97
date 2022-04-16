@@ -30,7 +30,7 @@ const Jrozo97 = {
 ```
 </br>
 
-<h2> Can you find me 💻</h2>
+<h2>💥 Can you find me 🚀</h2>
 <a href="https://twitter.com/RozoJimmy">
   <img align="left" alt="Jrozo97 Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
