@@ -11,7 +11,7 @@
 ```javascript
 const Jrozo97 = {
    pronouns: "he" | "him",
-   code: [Javascript, Typescript, HTML, CSS, Python, Java, Csharp, Dart],
+   code: [Javascript, Typescript, HTML, CSS, Sass, Python, Java, Csharp, Dart],
    technologies: {
       frontEnd: {
          js: ["React", "Angular"],
