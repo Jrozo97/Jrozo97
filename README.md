@@ -12,6 +12,7 @@
 const Jrozo97 = {
    pronouns: "he" | "him",
    code: [Javascript, Typescript, HTML, CSS, Python, Java, Csharp, Dart],
+   design: [AdobeXD, Figma]
    technologies: {
       frontEnd: {
          js: ["React", "Angular"],
