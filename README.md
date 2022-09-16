@@ -11,19 +11,17 @@
 ```javascript
 const Jrozo97 = {
    pronouns: "he" | "him",
-   code: [Javascript, Typescript, HTML, CSS, Python, Java, Csharp, Dart],
+   code: [Javascript, Typescript, HTML, CSS, Python, Java],
    design: [AdobeXD, Figma]
    technologies: {
       frontEnd: {
-         js: ["React", "Angular"],
+         js: ["ReactJS", "Angular", "NextJS"],
          css: ["Bootstrap", "Material UI", "Sass", "Styled Components"]
       },
       backEnd: {
          js: ["Node"],
-         csharp: ["Asp.net Core"],
       },
       databases: ["mySQL", "PostgreSQL"],
-      mobile: ["Flutter"]
    },
    currentOccupation: ["Systems engineer, open to job opportunities"],
    challenge: "Small steps and great progress will be seen",
