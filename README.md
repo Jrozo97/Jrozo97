@@ -2,7 +2,7 @@
 <h2> Hi, I'm Jimmy 👋👨🏾‍💻 </h2>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/34454997/163689657-e27c8a85-bf12-489d-8165-a4a566ee3763.svg">
+  <img src="https://user-images.githubusercontent.com/34454997/192564818-bf7169f0-847d-4745-90d1-d161e6f87067.png">
 </p>
 
 </br>
@@ -11,7 +11,7 @@
 ```javascript
 const Jrozo97 = {
    pronouns: "he" | "him",
-   code: [Javascript, Typescript, HTML, CSS, Python, Java],
+   code: [Javascript, Typescript, HTML, CSS],
    design: [AdobeXD, Figma]
    technologies: {
       frontEnd: {
@@ -19,7 +19,7 @@ const Jrozo97 = {
          css: ["Bootstrap", "Material UI", "Sass", "Styled Components"]
       },
       backEnd: {
-         js: ["Node"],
+         js: ["NodeJS"],
       },
       databases: ["mySQL", "PostgreSQL"],
    },
