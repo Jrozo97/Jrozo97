@@ -28,6 +28,12 @@ const Jrozo97 = {
 };
 ```
 </br>
+<br/>
+<h2>🐱‍🏍 Statistics 👨🏾‍💻</h2>
+
+![Jimmy Rozo Github Stats](https://github-readme-stats.vercel.app/api?username=Jrozo97&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+<br/>
 
 <h2>💥 Can you find me 🚀</h2>
 <a href="https://twitter.com/RozoJimmy">
@@ -40,6 +46,7 @@ const Jrozo97 = {
   <img align="left" alt="Jrozo97 Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <br />
+
 
 <!--
 **Jrozo97/Jrozo97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
